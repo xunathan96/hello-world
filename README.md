@@ -8,3 +8,6 @@ Testing New
 
 
 Test commit conflict
+
+
+Test pull conflict
