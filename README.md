@@ -12,4 +12,4 @@ Test commit conflict
 
 Test pull conflict
 
-Test fetch conflict local
+Test fetch conflict
