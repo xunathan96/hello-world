@@ -6,4 +6,5 @@ TestingLocal
 
 Testing New
 
-Test conflict of commit
+
+Test commit conflict
