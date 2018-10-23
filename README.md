@@ -11,3 +11,5 @@ Test commit conflict
 
 
 Test pull conflict
+
+Test fetch conflict local
