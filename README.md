@@ -9,4 +9,5 @@ Testing New
 
 Test commit conflict
 
-Test pull conflict local
+
+Test pull conflict
